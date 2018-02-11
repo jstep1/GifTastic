@@ -1,9 +1,9 @@
 # GifTastic Superheroes
 Welcome to GifTastic Superheroes! This webpage built to find quality gifs of your favorite superheroes.
 
-<img src = "images/giftastic.jpg">
-
 https://jstep1.github.io/GifTastic/index.html
+
+<img src = "images/giftastic.jpg">
 
 # Instructions
 Click the button with your favorite superhero and you will be given a list of 10 gifs along with their ratings. To start or stop each gif, simply click the image.
