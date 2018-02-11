@@ -1,0 +1,24 @@
+* {
+    color: blue;
+}
+
+button {
+    margin: 3px;
+}
+
+.heroInfo {
+    float: left;
+    margin: 4px;
+}
+
+.sub {
+    margin-top: 3%;
+}
+
+#hero-input {
+    width: 90%;
+}
+
+#heroButtons {
+    margin-bottom: 10px;
+}
