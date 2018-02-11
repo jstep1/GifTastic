@@ -22,8 +22,6 @@ function displayHeroInfo() {
 
     var heroDiv = $("<div class='hero'>");
 
-    //
-
     for(var i=0; i < response.data.length; i++) {
     
     var heroInfo = $("<div class='heroInfo'>");
